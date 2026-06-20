@@ -44,5 +44,3 @@ Loki Health: 55
 
 ## Author
 Manoz Kumar
-
-Manoj Kumar
